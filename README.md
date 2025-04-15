@@ -1,6 +1,9 @@
 # GIT-for-SUSTAIN
 A guide for getting to grips with GitHub
 
+![Git Workflow Diagram](./diagram.svg)
+
+
 # Step-by-Step Process to Create and Connect to a New Repository
 
 ## Step 0: Set Up Authentication
